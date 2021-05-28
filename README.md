@@ -43,7 +43,7 @@ Bohdan Coffee is a food ordering service application that gives full flexibility
 ## Prerequisites
 
 - [NodeJs](https://nodejs.org/en/download/)
-- [Backend Coffee Shop](https://github.com/chaerulmarwan20/coffee-shop-backend)
+- [Backend Coffee Shop](https://github.com/nevalenaginda/coffee-shop-backend)
 
 ## Installation
 
