@@ -50,7 +50,7 @@ Bohdan Coffee is a food ordering service application that gives full flexibility
 1. Clone the repository.
 
 ```
-$ git clone https://github.com/chaerulmarwan20/coffee-shop-frontend.git
+$ git clone https://github.com/nevalenaginda/coffee-shop-frontend.git
 ```
 
 2. Open this project.
